@@ -6,9 +6,17 @@ btn btn-primary{
 }
 .icon-bar{
     color:#fff;
+    
 }
 .text-bar{
     color: #fff;
     font-size: 13px;
+
+}
+a{
+    font:normal normal bold 17px/22px Source Sans Pro;
+}
+.logo{
+    width:253px;
     
 }
