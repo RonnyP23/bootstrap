@@ -18,5 +18,38 @@ a{
 }
 .logo{
     width:253px;
+    height: 100px 24px;
     
+}
+.navbar{
+  
+  
+
+     color:#ffffff; 
+}
+li{
+    color:#707070;
+    font: normal normal bold 17px/22px Source Sans Pro;
+    
+}
+.prudutos{
+    width: 217px;
+    height: 54px;
+    border:1px solid red ;
+    font:normal normal 900 43px/54 Source Sans Pro;
+    
+}
+h1{
+    color:#512b42;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.img2{
+
+}
+.img3{
+    float:right;
 }
